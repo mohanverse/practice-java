@@ -3,5 +3,9 @@ public class Variable {
         System.out.println("hello");
 
         int marioScore = 200;
+        int lufeUps = 50;
+
+        int finalmarioStore = marioScore * lufeUps ; 
+        System.out.println(finalmarioStore);
     }
 }
