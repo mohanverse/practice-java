@@ -1,6 +1,6 @@
 public class Arithmatic {
 
-    public static void main(String[] args){
+    public static void main(String args[]){
         int numBer1= 10;
         int numBer2= 20;
         int numBer3= 35;

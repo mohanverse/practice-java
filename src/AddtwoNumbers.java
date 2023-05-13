@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class AddtwoNumbers {
-    public static void main(String[] args){
+    public static void main(String args[]){
         int myFirstNum;
         int mySecNum;
         int result;
