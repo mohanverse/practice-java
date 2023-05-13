@@ -1,4 +1,5 @@
-//data types 
+//Premativedata types 
+
 //byte - -128 : 127
 //short - -32768 : 32767
 //int - -2, 147, 484, 648
