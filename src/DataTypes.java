@@ -9,8 +9,6 @@
 //char - 'Z'
 //string - 'mohan'
 
-import java.rmi.server.SocketSecurityException;
-
 public class DataTypes {
 
     public static void main(String[] args){
@@ -44,8 +42,17 @@ public class DataTypes {
         String myValue = Integer.toHexString(mChar);
         System.out.println(myValue);
 
+        //String
+        String mystring = "i am a string";
+        System.out.println("Answer is: " + mystring);
+
+        // String fakeVlue = "22.28";
+        // String fakeVlueTwo = "22.28";
+
+        // System.out.println(fakeVlue+fakeVlueTwo);
 
 
+ 
 
 
     }
