@@ -9,10 +9,45 @@
 //char - 'Z'
 //string - 'mohan'
 
+import java.rmi.server.SocketSecurityException;
+
 public class DataTypes {
 
     public static void main(String[] args){
         System.out.println("new module");
+
+        //byte
+        // byte myByte = 127;
+        // System.out.println(myByte);
+
+        // int
+        int myInt = 7;
+
+        //float
+        float myFloat = 7;
+
+        //double
+        double myDouble = 7;
+
+        System.out.println("Int value is: "+ myInt);
+        System.out.println("float value is: "+ myFloat);
+        System.out.println("double value is: "+ myDouble);
+
+
+        //boolean
+        boolean isActive = false;
+        System.out.println(isActive);
+
+        //char
+        char mChar = 'W';
+        System.out.println(mChar);
+        String myValue = Integer.toHexString(mChar);
+        System.out.println(myValue);
+
+
+
+
+
     }
     
 }
