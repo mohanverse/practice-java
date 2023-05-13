@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "myfirstproj_69e7b2b"
+        },
+        {
+            "type": "java",
             "name": "AddtwoNumbers",
             "request": "launch",
             "mainClass": "AddtwoNumbers",
