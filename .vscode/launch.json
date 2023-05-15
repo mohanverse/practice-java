@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assighment",
+            "request": "launch",
+            "mainClass": "Assighment",
+            "projectName": "myfirstproj_9e99b538"
+        },
+        {
+            "type": "java",
             "name": "Logicalop",
             "request": "launch",
             "mainClass": "Logicalop",
