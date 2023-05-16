@@ -9,6 +9,7 @@ public class Loops {
         
     // }
 
+
     //while loop
     // public static void main(String args[]) {
     //     int i = 0;
@@ -30,6 +31,17 @@ public class Loops {
     //     while (i < 5);
         
     // }
+
+
+    //for-each loop
+
+    public static void main(String args[]) {
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+        for (String i : cars) {
+            System.out.println(i);
+        }
+        
+    }
 
 
 
