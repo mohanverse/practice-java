@@ -27,7 +27,7 @@ public class FahrenheitTocelSius {
 
             temp = in.nextInt();
 
-            temp = ((temp*9)/5) +32;
+            temp = (temp*9/5) +32;
             System.out.println(temp);
     }
 }
