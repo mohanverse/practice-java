@@ -1,8 +1,14 @@
+import java.util.Scanner;
+
+import javax.sound.sampled.SourceDataLine;
+
 public class GradeGreeting {
 
     public static void main( String args[]) {
 
         char grade = 'B';
+        
+
         switch(grade){
             case 'A':
                System.out.println("Amazing work there keep going");
@@ -26,6 +32,8 @@ public class GradeGreeting {
             System.out.println("grade Can only be A to F");   
 
         }
+
+    
         
     }
     
