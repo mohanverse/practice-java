@@ -29,7 +29,17 @@ public class ArrayExecise {
         }
         System.out.println("smallest element in Array: " + smallest);
 
+
         //sum up all element
+
+        int sum = 0;
+        for(int i=0; i<exerciseArray.length; i++){
+            sum = sum + exerciseArray[i];
+        }
+        System.out.println(sum);
+
+
+
 
 
         
