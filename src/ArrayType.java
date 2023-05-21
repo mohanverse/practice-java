@@ -9,7 +9,7 @@ public class ArrayType {
 
         //System.out.println(scoreArray[2]);
 
-        for(int i = 0; i<10; i++){
+        for(int i = 0; i<scoreArray.length; i++){
             scoreArray[i] = i*10;
         }
         // System.out.println(scoreArray[0]);
