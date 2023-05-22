@@ -4,6 +4,7 @@ public class AddtwoNumbers {
     public static void main(String args[]){
         int myFirstNum;
         int mySecNum;
+        
         int result;
 
 
