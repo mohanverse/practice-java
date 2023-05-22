@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "myfirstproj_9e99b538"
+        },
+        {
+            "type": "java",
             "name": "ArrayExecise",
             "request": "launch",
             "mainClass": "ArrayExecise",
