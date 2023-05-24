@@ -7,7 +7,7 @@ public class ArrayExecise {
 
         // print array elment
         for (int i = 0; i<exerciseArray.length; i++){
-            System.out.println(exerciseArray[i]);
+            System.out.println (exerciseArray[i]);
         }
         //find largest number
          int largest = exerciseArray[0];
